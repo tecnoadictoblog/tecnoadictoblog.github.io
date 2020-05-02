@@ -1,9 +1,11 @@
 ---
 layout: post
-title: asdfadsfng!
+title: Mi pdrimer articulo  asdfadsfng!
 ---
-# prueba
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+# prueba  
+## ole ole
+nada de nada Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 `dsfsdfdf`
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
