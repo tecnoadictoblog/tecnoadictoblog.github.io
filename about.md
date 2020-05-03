@@ -12,4 +12,4 @@ Aa place to include any other types of information that you'd like to include ab
 
 ### Contact me
 
-[email@domain.com](mailto:eemail@domain.com)
+[eeemail@domain.com](mailto:eemail@domain.com)
