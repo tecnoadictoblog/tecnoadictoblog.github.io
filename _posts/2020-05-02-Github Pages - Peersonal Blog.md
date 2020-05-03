@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Post Github
+title: Post Github prueba
 ---
-## Nuevo Post Github Pages in few minutes
+Nuevo Post Github Pages in few minutes
 Pureba de texto
 
 1. Create an user in Github
