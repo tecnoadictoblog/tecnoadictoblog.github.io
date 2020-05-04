@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aboutt
-permalink: /about/
+permalink: /prueba/
 ---
 
 segunda about
