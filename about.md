@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Aboutt
+title: Abou
 permalink: /about/
 ---
-
+me cago en to lo que se menea
 Some information about you!
 
 ### Moree Information
