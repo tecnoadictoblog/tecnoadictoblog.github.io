@@ -8,6 +8,7 @@ Los pasos son los siguientes:
 1. Crea un usuario nuevo en Github
 2. Crea un nuevo repositorio siguiendo estas instrucciones de [GitHub Pages](https://pages.github.com/)
 > Pon al repositorio el nombre de tu pagina personal "PepitoPerez.github.io"
+
 > De este modo ya tendrás el dominio "https://pepitoperez.github.io"
 3. Entra en
 
