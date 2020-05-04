@@ -2,6 +2,7 @@
 layout: page
 title: Titulo Prueba
 permalink: /Prueba/
+published: true
 ---
 
 Some information about you!
