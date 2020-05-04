@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Titulo Prueba
-permalink: /Prueba/
-published: true
+title: About
+permalink: /about/
 ---
 
-Some information about you!
+segunda about
 
 ### Moree Information
 
