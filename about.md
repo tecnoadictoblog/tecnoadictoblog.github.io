@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Abou
+title: About
 permalink: /about/
 ---
-me cago en to lo que se menea
-Some information about you!
+These are my personal proyects and notes.
+
+I hope it will be usefull for you.
 
 ### Moree Information
 
-Aa place to include any other types of information that you'd like to include about yourself.
+If you need something do not hesitate to contact me.
 
 ### Contact me
 
-[eeemail@domain.com](mailto:eemail@domain.com)
+[Telegram @Pejiguera] (https://t.me/pejiguera)

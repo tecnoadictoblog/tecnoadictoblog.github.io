@@ -12,4 +12,4 @@ Los pasos son los siguientes:
 > De este modo ya tendrás el dominio "https://pepitoperez.github.io"
 3. Entra en
 
-- Link: https://www.youtube.com/watch?v=lsvRyE5tPQQ
+ Link: https://www.youtube.com/watch?v=lsvRyE5tPQQ
