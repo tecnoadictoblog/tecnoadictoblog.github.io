@@ -48,6 +48,7 @@ docker container ls
 https://github.com//node-red/node-red-docker
 
 `docker run -it -p 1880:1880 --name mynodered nodered/node-red`
+
 `docker start mynodered`
 
 ## IoTstack
@@ -55,6 +56,9 @@ https://github.com//node-red/node-red-docker
 https://github.com/gcgarner/IOTstack
 
 `sudo apt-get install git`
+
 `git clone https://github.com/gcgarner/IOTstack.git ~/IOTstack`
+
 `cd IOTstack` y después ejecutar
+
 `./menu.sh`
